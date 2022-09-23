@@ -1,0 +1,5 @@
+Class B{
+	pubic void m2(){
+	System.out.println("person program");
+	}
+	}
